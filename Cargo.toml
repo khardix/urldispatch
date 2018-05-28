@@ -1,0 +1,6 @@
+[package]
+name = "urldispatch"
+version = "0.1.0"
+authors = ["Jan Khardix Staněk <khardix@gmail.com>"]
+
+[dependencies]
