@@ -1,0 +1,3 @@
+# urldispatch -- Select launcher based on URL
+
+Given an URL, this CLI utility selects pre-configured command to open it.
